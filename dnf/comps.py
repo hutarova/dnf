@@ -33,7 +33,7 @@ import locale
 import operator
 import re
 
-# :api :abi
+# :api :binformat
 CONDITIONAL = 1
 DEFAULT     = 2
 MANDATORY   = 4
